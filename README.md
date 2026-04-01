@@ -1,5 +1,5 @@
 
-# Eye-Tracking Based Learning Analytics for Pentomino Problem Solving
+# Eye tracking based learning analytics for German schools.
 
 This project demonstrates an AI system that analyzes **student gaze behavior during spatial reasoning tasks** to detect whether a student may require teacher intervention while solving digital pentomino puzzles.
 
